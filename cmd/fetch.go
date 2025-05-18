@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/magmueller/stargazers/fetch"
+	"github.com/arnavagrawal03/stargazers/fetch"
 	"github.com/spf13/cobra"
 )
 

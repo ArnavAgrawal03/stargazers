@@ -24,7 +24,7 @@ import (
 	"strings"
 
 	// NOTE: change magmueller to your username
-	"github.com/magmueller/stargazers/cmd" // fork repo and use local
+	"github.com/arnavagrawal03/stargazers/cmd" // fork repo and use local
 	// fork repo and use local
 
 	"github.com/spf13/cobra"

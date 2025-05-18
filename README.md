@@ -17,17 +17,17 @@ Stargazer Analytics helps you understand and connect with the developers who sta
 ## 🚀 Quick Start
 
 ### 1. Setup
-In this repo search and replace `github.com/magmueller/stargazers` and `github.com/YOUR_USERNAME/stargazers` with your username.
+In this repo search and replace `github.com/arnavagrawal03/stargazers` and `github.com/arnavagrawal03/stargazers` with your username.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/stargazers.git
+git clone https://github.com/arnavagrawal03/stargazers.git
 cd stargazers
 
 
 # Initialize Go module
 rm -rf go.mod go.sum
-go mod init github.com/YOUR_USERNAME/stargazers && go mod tidy
+go mod init github.com/arnavagrawal03/stargazers && go mod tidy
 go build
 ```
 
